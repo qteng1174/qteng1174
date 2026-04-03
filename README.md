@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Yunelle Teng 👋
 
-<!--
-**qteng1174/qteng1174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Applied Data Science @ University of Chicago  
+📊 Interested in Data Science, Data Analytics, and Machine Learning  
 
-Here are some ideas to get you started:
+## About Me
+I enjoy using data to solve real-world problems and support better decision-making. My experience includes predictive modeling, time series forecasting, and large-scale data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am especially interested in connecting machine learning with real business impact.
+
+## Skills
+- Python, R, SQL
+- Machine Learning
+- Time Series Forecasting
+- Data Visualization
+- PySpark, Databricks
+
+## Featured Projects
+- Time Series Forecasting of U.S. Retail Sales
+- Diabetes Prediction (ML Classification)
+
+## Contact
+- LinkedIn: (https://www.linkedin.com/in/qiyun-yunelle-teng-2a96152b0/)
+- Email: (qteng927@gmail.com)

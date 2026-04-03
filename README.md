@@ -1,23 +1,24 @@
 # Hi, I'm Yunelle Teng 👋
 
+📄 [View My Resume](./Yunelle_Teng.pdf)
+
 🎓 Applied Data Science @ University of Chicago  
-📊 Interested in Data Science, Data Analytics, and Machine Learning  
+📊 Data Scientist | Machine Learning | Analytics  
 
 ## About Me
-I enjoy using data to solve real-world problems and support better decision-making. My experience includes predictive modeling, time series forecasting, and large-scale data analysis.
+I specialize in turning data into actionable insights and building models that solve real-world business problems. My experience includes machine learning, time series forecasting, and large-scale data analysis.
 
-I am especially interested in connecting machine learning with real business impact.
+I focus on bridging technical modeling with practical impact, ensuring that analytical solutions are both accurate and deployable.
 
 ## Skills
 - Python, R, SQL
-- Machine Learning
-- Time Series Forecasting
-- Data Visualization
+- Machine Learning, Time Series
 - PySpark, Databricks
+- Data Visualization (Power BI, ggplot2)
 
 ## Featured Projects
-- Time Series Forecasting of U.S. Retail Sales
-- Diabetes Prediction (ML Classification)
+- Time-Series Forecasting of U.S. Retail Sales
+- Diabetes Prediction using Machine Learning
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/qiyun-yunelle-teng-2a96152b0/

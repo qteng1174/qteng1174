@@ -22,4 +22,4 @@ I focus on bridging technical modeling with practical impact, ensuring that anal
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/qiyun-yunelle-teng-2a96152b0/
-- Email: qteng927@gmail.com
+- Email: qteng1174@gmail.com

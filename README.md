@@ -20,5 +20,5 @@ I am especially interested in connecting machine learning with real business imp
 - Diabetes Prediction (ML Classification)
 
 ## Contact
-- LinkedIn: (https://www.linkedin.com/in/qiyun-yunelle-teng-2a96152b0/)
-- Email: (qteng927@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/qiyun-yunelle-teng-2a96152b0/
+- Email: qteng927@gmail.com

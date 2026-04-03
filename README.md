@@ -12,7 +12,7 @@ I specialize in transforming complex data into actionable insights and building 
 
 My work spans machine learning, time series forecasting, statistical modeling, and large-scale data analysis. I focus on developing solutions that balance predictive performance with practical impact, ensuring models are both accurate and deployable.
 
-💡 Interested in data science roles where I can apply modeling and analytics to drive real-world decision making.
+Interested in data science roles where I can apply modeling and analytics to drive real-world decision making.
 
 ---
 
@@ -25,10 +25,10 @@ My work spans machine learning, time series forecasting, statistical modeling, a
 ---
 
 ## Featured Projects
-- 📈 [Time-Series Forecasting of U.S. Retail Sales](https://github.com/qteng1174/time-series-retail-forecasting)
-- 🩺 [Diabetes Prediction using Machine Learning](https://github.com/qteng1174/diabetes-prediction-ml)
-- 🧠 [Amazon Review Fraud Analysis](https://github.com/qteng1174/amazon-review-fraud-analysis)
-- 📊 [Chinese Stock Return Regression](https://github.com/qteng1174/chinese-stock-return-regression)
+- [Time-Series Forecasting of U.S. Retail Sales](https://github.com/qteng1174/time-series-retail-forecasting)
+- [Diabetes Prediction using Machine Learning](https://github.com/qteng1174/diabetes-prediction-ml)
+- [Amazon Review Fraud Analysis](https://github.com/qteng1174/amazon-review-fraud-analysis)
+- [Chinese Stock Return Regression](https://github.com/qteng1174/chinese-stock-return-regression)
 
 ---
 
